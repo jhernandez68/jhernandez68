@@ -9,7 +9,7 @@
   About Me
 </h2>
 <p>
-I’m a Systems Engineer with nearly 2 years of experience building full-stack web apps using Django, FastAPI, and React. I’ve designed scalable RESTful APIs, optimized databases for performance, and automated CI/CD pipelines. I love clean, efficient code—and I’m always eager to learn new technologies.
+I’m a Systems Engineer with 2+ years of experience building full-stack web apps using Django, FastAPI, and React. I’ve designed scalable RESTful APIs, optimized databases for performance, and automated CI/CD pipelines. I love clean, efficient code—and I’m always eager to learn new technologies.
 </p>
 
 <h2 align="left" style="color: #4B0082;">
