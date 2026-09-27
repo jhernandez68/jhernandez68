@@ -39,14 +39,6 @@ I’m a Systems Engineer with 3+ years of experience building full-stack web app
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
 </p>
 
-<h2 align="left" style="color: #4B0082;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtoNGRjbGpvcGo2OTRtdzlmNnpxM2l6N2swOXo0YnEyNnd3NjNtaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RVWSqOsgDAq0W3051o/giphy.gif" width="30px" alt="stats gif" />
-  GitHub Stats
-</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhernandez68&theme=dracula&hide_border=true" alt="Most Used Languages" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jhernandez68&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-</div>
 
 <h2 align="left" style="color: #4B0082;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tueXppcW12c3h3ZGE1N2dlOWVodHF0dGY5cGxsbWRpd2tzbmg2biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/suBfyxIn6oUzRZQhQ4/giphy.gif" width="30px" alt="contact gif" />
