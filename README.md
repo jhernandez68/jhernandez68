@@ -58,6 +58,6 @@ I’m a Systems Engineer with 3+ years of experience building full-stack web app
 </h2>
 <div align="left">
   <p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jhoan-hernandez-161134191/">Jhoan Hernandez</a></p>
-  <p>🌐 <strong>Portfolio:</strong> <a href="https://jhernandez68.github.io/portfolio/">https://jhernandez68.github.io/jhoan-portfolio-2026/</a></p>
+  <p>🌐 <strong>Portfolio:</strong> <a href="https://jhernandez68.github.io/jhoan-portfolio-2026/">https://jhernandez68.github.io/jhoan-portfolio-2026/</a></p>
   <p>📬 <strong>Email:</strong> <a href="mailto:hernandez.f.jhoan@gmail.com">hernandez.f.jhoan@gmail.com</a></p>
 </div>
