@@ -40,6 +40,18 @@ I’m a Systems Engineer with 3+ years of experience building full-stack web app
 </p>
 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+
+ [![Sercrof](https://github-readme-stats.vercel.app/api/top-langs/?username=jhernandez68&langs_count=8&theme=dark)](https://github.com/jhernandez68/github-readme-stats)
+
+ ![jhernandez68 GitHub stats](https://github-readme-stats.vercel.app/api?username=jhernandez68&show_icons=true&theme=tokyonight)
+ 
+</div>
+
 <h2 align="left" style="color: #4B0082;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tueXppcW12c3h3ZGE1N2dlOWVodHF0dGY5cGxsbWRpd2tzbmg2biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/suBfyxIn6oUzRZQhQ4/giphy.gif" width="30px" alt="contact gif" />
   Contact
